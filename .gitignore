@@ -1,0 +1,6 @@
+node_modules
+build
+dist
+.editorconfig
+.DS_Store
+*.log
